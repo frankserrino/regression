@@ -4,7 +4,7 @@ Created on Fri Nov 27 21:49:39 2020
 
 @author: Frank Serrino
 
-Much of this code is a modified from the material in Amit Yadav's excellent Coursea course 'Linear Regression with Python' 
+Much of this code is a modified from the material in Amit Yadav's excellent Coursera course 'Linear Regression with Python' 
 """
 import numpy as np
 from numpy import savetxt
